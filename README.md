@@ -4,9 +4,13 @@
 ## Command	Description
 
 Invite	The INVITE command is used to invite a user to a channel.
+
 Join	The JOIN command indicates that the client wants to join the given channel(s), each channel using the given key for it.
+
 Kick	The KICK command can be used to request the forced removal of a user from a channel.
+
 Kill	The KILL command is used to close the connection between a given client and the server they are connected to. KILL is a privileged command and is available only to IRC Operators.
+
 List	The LIST command is used to get a list of channels along with some information about each channel.
 Mode	The MODE command is used to set or remove options (or modes) from a given target. Our user modes : i, o. Our channels modes: b,k,m,o,p,s,t,v
 Motd	The MOTD command is used to get the “Message of the Day” of the given server.
