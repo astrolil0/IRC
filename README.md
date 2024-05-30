@@ -1,10 +1,10 @@
 # IRC
 
 ## Description
+Using select(): Manages connection and data requests from multiple clients at the same time using the select() system call.
 
-## Command	Description
+## Basic Command	Description
 
-Basic IRC Commands:
 
 NICK: Allows users to set their nickname (nick).
 
