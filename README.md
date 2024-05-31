@@ -3,7 +3,6 @@
 ## Description
 Using select(): Manages connection and data requests from multiple clients at the same time using the select() system call.
 
-
 Socket Programming: socket(), bind(), listen(), accept(), and accept() functions are used for network communication.
 ## Basic Command	Description
 
