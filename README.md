@@ -1,4 +1,4 @@
-# IRC Internet Relay Chat
+# IRC / Internet Relay Chat
 
 ## Description
 Using select(): Manages connection and data requests from multiple clients at the same time using the select() system call.
